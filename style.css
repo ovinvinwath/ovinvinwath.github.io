@@ -176,7 +176,7 @@ section .title::after{
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
-    background-image: url("bgbgbg.png");
+    background: url("bgbgbg.png");
 }
 .home .max-width{
   width: 100%;
